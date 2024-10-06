@@ -64,7 +64,7 @@ Screenshot:
 This page helps our users to know more about our us and facility that we provide to our customers.
 
 Screenshot:
-![Screenshot 2023-07-16 235201](https://github.com/roy705051/Airport-Portal/assets/118226807/653609c4-c4eb-4c02-b352-87ae0d8aae54)
+![Screenshot 2023-07-16 235201](https://github.com/rajnish3013-ux/Airport-Portal/assets/118226807/653609c4-c4eb-4c02-b352-87ae0d8aae54)
 
 
 #Contact page
